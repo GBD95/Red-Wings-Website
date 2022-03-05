@@ -1,0 +1,40 @@
+.section1 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+
+    .section1-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+        
+
+        .header1 {
+            background-image: url(/images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-clip: padding-box;
+            background-position: center;
+            font-family: $secondary-font;
+            color: $light-color;
+            font-size: 3rem;
+            padding: 10px 80px;
+
+        }
+
+        .content1 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+
+            img {
+                width: 50%;
+            }
+        }
+    }
+}
