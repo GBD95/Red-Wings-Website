@@ -26,7 +26,7 @@ header {
       -ms-flex-pack: center;
           justify-content: center;
   height: 128px;
-  background-image: url(images/PNG_img/Header.png);
+  background-image: url(../images/PNG_img/Header.png);
   z-index: 9999;
 }
 
@@ -103,7 +103,7 @@ header .header-container .nav-bar a {
 }
 
 .section1 .section1-container .header1 {
-  background-image: url(images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
+  background-image: url(../images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-clip: padding-box;
@@ -166,7 +166,7 @@ header .header-container .nav-bar a {
   color: #FFFFFF;
   font-size: 3rem;
   padding: 10px 80px;
-  background-image: url(images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
+  background-image: url(../images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-clip: padding-box;
@@ -289,7 +289,7 @@ header .header-container .nav-bar a {
   color: #FFFFFF;
   font-size: 3rem;
   padding: 10px 80px;
-  background-image: url(images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
+  background-image: url(../images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-clip: padding-box;
@@ -402,7 +402,7 @@ header .header-container .nav-bar a {
   color: #FFFFFF;
   font-size: 3rem;
   padding: 10px 80px;
-  background-image: url(images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
+  background-image: url(../images/PNG_img/ribbon_main_page/Ribbon_fast_food_stanice.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-clip: padding-box;
@@ -431,7 +431,7 @@ footer {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url(images/PNG_img/Footer_croped.png);
+  background-image: url(../images/PNG_img/Footer_croped.png);
   height: 500px;
 }
 
